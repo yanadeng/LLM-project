@@ -162,8 +162,3 @@ The project includes automated tests covering:
 - explanation generation
 - full pipeline integration
 
-Run tests with:
-
-```bash
-pytest
-```
